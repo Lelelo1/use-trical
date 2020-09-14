@@ -1,0 +1,9 @@
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/bin/Debug/netstandard2.1/TRICAL.deps.json
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/bin/Debug/netstandard2.1/TRICAL.dll
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/bin/Debug/netstandard2.1/TRICAL.pdb
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.Standard.csprojAssemblyReference.cache
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.Standard.AssemblyInfoInputs.cache
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.Standard.AssemblyInfo.cs
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.Standard.csproj.CoreCompileInputs.cache
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.dll
+/Users/lelelo1/Projects/TRICAL/TRICAL.Standard/obj/Debug/netstandard2.1/TRICAL.pdb

@@ -1,0 +1,5 @@
+/Users/lelelo1/Projects/TRICAL/TRICAL.iOS/bin/Release/TRICAL.dll
+/Users/lelelo1/Projects/TRICAL/TRICAL.iOS/bin/Release/TRICAL.pdb
+/Users/lelelo1/Projects/TRICAL/TRICAL.iOS/obj/Release/TRICAL.iOS.csproj.CoreCompileInputs.cache
+/Users/lelelo1/Projects/TRICAL/TRICAL.iOS/obj/Release/TRICAL.dll
+/Users/lelelo1/Projects/TRICAL/TRICAL.iOS/obj/Release/TRICAL.pdb

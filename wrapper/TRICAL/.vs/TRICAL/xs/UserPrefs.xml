@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8B7D5092-2113-424E-AAB6-95E0D08470C2}|Default">
+  <MonoDevelop.Ide.ItemProperties.TRICAL.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TRICAL.Shared/TRICALWrapper.cs">
+    <Files>
+      <File FileName="TRICAL.Shared/TRICAL.cs" Line="25" Column="23" />
+      <File FileName="TRICAL.Shared/TRICALWrapper.cs" Line="24" Column="9" />
+      <File FileName="TRICAL.Android/Resources/values/strings.xml" />
+      <File FileName="TRICAL.nuspec" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TRICAL" expanded="True">
+            <Node name="SolutionItems" expanded="True" />
+            <Node name="TRICAL.Android" expanded="True">
+              <Node name="libs" expanded="True" />
+            </Node>
+            <Node name="TRICAL.iOS" expanded="True" />
+            <Node name="TRICAL.Shared" expanded="True">
+              <Node name="TRICALWrapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TRICAL.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

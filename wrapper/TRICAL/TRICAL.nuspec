@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>TRICAL</id>
+        <version>1.4.4</version>
+        <description>.NET distribution of C library TRICAL magnetometer calibration</description>
+        <authors>Lelelo</authors>
+    </metadata>
+  <files>
+
+    <!-- Android -->
+    <file src="TRICAL.Android\bin\Release\TRICAL.dll" target="lib\MonoAndroid81\TRICAL.dll" />
+    <file src="TRICAL.Android\bin\Release\TRICAL.pdb" target="lib\MonoAndroid81\TRICAL.pdb" />
+    
+    <!-- iOS -->
+    <file src="TRICAL.iOS\bin\Release\TRICAL.dll" target="lib\Xamarin.iOS10\TRICAL.dll" />
+    <file src="TRICAL.iOS\bin\Release\TRICAL.pdb" target="lib\Xamarin.iOS10\TRICAL.pdb" />
+    
+    <!-- netstandard2.0 -->
+    <file src="TRICAL.Standard\bin\Release\netstandard2.1\TRICAL.dll" target="lib\netstandard2.1\TRICAL.dll" />
+    <file src="TRICAL.Standard\bin\Release\netstandard2.1\TRICAL.pdb" target="lib\netstandard2.1\TRICAL.pdb" />
+
+  </files>
+</package>

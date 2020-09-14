@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{C480C938-A7DB-410A-80BD-5ADE2E7DC506}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>TRICAL</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)TRICALWrapper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TRICALSafeHandle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TRICAL.cs" />
+  </ItemGroup>
+</Project>

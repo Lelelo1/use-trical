@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRICAL.Standard", "TRICAL.Standard\TRICAL.Standard.csproj", "{A771FF06-5A6E-40A4-A3DB-D1175030D433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRICAL.Android", "TRICAL.Android\TRICAL.Android.csproj", "{8B7D5092-2113-424E-AAB6-95E0D08470C2}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TRICAL.Shared", "TRICAL.Shared\TRICAL.Shared.shproj", "{C480C938-A7DB-410A-80BD-5ADE2E7DC506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRICAL.iOS", "TRICAL.iOS\TRICAL.iOS.csproj", "{258FC86B-B044-4DB1-93F5-5FA72C5377D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{CBCDE961-4F9A-43DB-8025-D5B77707A8DB}"
+	ProjectSection(SolutionItems) = preProject
+		TRICAL.nuspec = TRICAL.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A771FF06-5A6E-40A4-A3DB-D1175030D433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A771FF06-5A6E-40A4-A3DB-D1175030D433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A771FF06-5A6E-40A4-A3DB-D1175030D433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A771FF06-5A6E-40A4-A3DB-D1175030D433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7D5092-2113-424E-AAB6-95E0D08470C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7D5092-2113-424E-AAB6-95E0D08470C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7D5092-2113-424E-AAB6-95E0D08470C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7D5092-2113-424E-AAB6-95E0D08470C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258FC86B-B044-4DB1-93F5-5FA72C5377D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258FC86B-B044-4DB1-93F5-5FA72C5377D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258FC86B-B044-4DB1-93F5-5FA72C5377D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258FC86B-B044-4DB1-93F5-5FA72C5377D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00957B44-3998-4DEA-A79F-AD9AD9ECC183}
+	EndGlobalSection
+EndGlobal
